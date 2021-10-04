@@ -1,10 +1,7 @@
 #EXTM3U
+
 #EXTINF:-1,PK003:8XM HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31735
-#EXTINF:-1,PK005:Aaj Entertainment
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31733
-#EXTINF:-1,PK007:Abb TaKK News
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31731
 #EXTINF:-1,PK008:Aap News
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31730
 #EXTINF:-1,PK010:Apna Channel
@@ -59,8 +56,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31690
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31689
 #EXTINF:-1,PK050:Geo Super
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31688
-#EXTINF:-1,PK052:GEO TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31686
 #EXTINF:-1,PK053:GEO TV UK
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31685
 #EXTINF:-1,PK054:GNN HD
@@ -97,8 +92,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31661
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31656
 #EXTINF:-1,PK088:PEACE TV URDU
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31650
-#EXTINF:-1,PK089:ARY Zaiqa
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31649
 #EXTINF:-1,PK090:Raavi Films
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31648
 #EXTINF:-1,PK093:PTV HOME SD
@@ -125,8 +118,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31631
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31629
 #EXTINF:-1,PK112:SUBRANG TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31626
-#EXTINF:-1,PK114:TEN SPORTS
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31624
 #EXTINF:-1,PK115:British Muslim
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31623
 #EXTINF:-1,PK117:Such TV
@@ -147,8 +138,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31614
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31613
 #EXTINF:-1,PK127:Zindgai TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31611
-#EXTINF:-1,PK129:Z9TV Digital Canda
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31609
 #EXTINF:-1,IN002:9X Jalwa
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1963
 #EXTINF:-1,IN004:9XM
@@ -157,8 +146,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1961
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1960
 #EXTINF:-1,IN006:Aastha
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1959
-#EXTINF:-1,IN008:And Pictures
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1957
 #EXTINF:-1,IN010:DD News
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1955
 #EXTINF:-1,IN011:B4U Movies
@@ -217,30 +204,18 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1892
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1890
 #EXTINF:-1,IN076:Times Now
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1889
-#EXTINF:-1,IN077:ABP News
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1888
 #EXTINF:-1,IN079:WIllow Cricket
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1886
 #EXTINF:-1,IN080:Zee Action
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1885
 #EXTINF:-1,IN081:Zee Anmol Cinema
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1884
-#EXTINF:-1,IN082:Zee Bollywood
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1883
 #EXTINF:-1,IN092:Zee Talkies Marathi
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1873
-#EXTINF:-1,IN095:9X Tashan
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55358
 #EXTINF:-1,IN096:Zee Rajasthan
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55357
-#EXTINF:-1,IN098:Zee Salaam
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55355
 #EXTINF:-1,IN099:Zing
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55354
-#EXTINF:-1,IN101:Zee Cafe HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55352
-#EXTINF:-1,IN107:Bollywood Movies
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55346
 #EXTINF:-1,IN113:Star Sports Select 1 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55340
 #EXTINF:-1,IN115:Star Sports Select 2 HD
@@ -251,8 +226,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55327
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55325
 #EXTINF:-1,IN129:Zee Telugu
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55324
-#EXTINF:-1,IN133:Peace Of Mind TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55320
 #EXTINF:-1,IN134:ZEE BANGLA
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55319
 #EXTINF:-1,IN145:Chardikla Time TV
@@ -269,10 +242,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55295
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55285
 #EXTINF:-1,IN169:DD Rajyasabha
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55284
-#EXTINF:-1,IN173:Discovery Science
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55280
-#EXTINF:-1,IN183:Epic HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55270
 #EXTINF:-1,IN184:ET Now
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55269
 #EXTINF:-1,IN189:Mastiii
@@ -313,8 +282,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/54975
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1964
 #EXTINF:-1,IN007:Akaal (Punjabi)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1958
-#EXTINF:-1,IN016:Hamdard TV (Punjabi)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1949
 #EXTINF:-1,IN033:GURBANI TV (Punjabi)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1932
 #EXTINF:-1,IN051:Sikh (Punjabi)
@@ -327,8 +294,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55262
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55224
 #EXTINF:-1,IN028:Jaya Max (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1937
-#EXTINF:-1,IN029:Jaya (Tamil)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1936
 #EXTINF:-1,IN030:KTV (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/1935
 #EXTINF:-1,IN044:Puthiya Thalaimurai (Tamil)
@@ -345,8 +310,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55282
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/55273
 #EXTINF:-1,IN298:IBC (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66707
-#EXTINF:-1,IN300:NEWS18 (Tamil)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66708
 #EXTINF:-1,IN301:NEWS 7 (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66709
 #EXTINF:-1,IN302:Raj Digital Plus (Tamil)
@@ -359,30 +322,22 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66712
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66713
 #EXTINF:-1,IN306:DD Podhigai (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66714
-#EXTINF:-1,IN308:Jaya Max USA (Tamil)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66716
 #EXTINF:-1,IN310:Jaya Movies (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66717
 #EXTINF:-1,IN311:JAYA TV US (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66718
 #EXTINF:-1,IN312:KTV US (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66719
-#EXTINF:-1,IN313:KTV HD (UK) (Tamil)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66720
 #EXTINF:-1,IN316:Makkal TV (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66723
 #EXTINF:-1,IN319:STAR VIJAY UK (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66724
-#EXTINF:-1,IN321:SUN NEWS (Tamil)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66725
 #EXTINF:-1,IN323:Sun TV HD (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66727
 #EXTINF:-1,IN324:SEITHIGAL (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66728
 #EXTINF:-1,IN325:3 Tamil TV ( Tamil )
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66729
-#EXTINF:-1,IN326:Captain TV (Tamil)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66730
 #EXTINF:-1,IN329:Zee Thirai (Tamil)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66733
 #EXTINF:-1,IN335:Kalaignar TV (Tamil)
@@ -421,8 +376,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66773
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66774
 #EXTINF:-1,IN383:Reporter News (Malayalam)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66785
-#EXTINF:-1,IN385:Goodness TV (Malayalam)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66787
 #EXTINF:-1,IN386:Harvest TV HD (Spiritual) (Malayalam)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66788
 #EXTINF:-1,IN391:Shalom HD (Malayalam)
@@ -457,8 +410,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66822
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66827
 #EXTINF:-1,IN427:SVBCTTD HD (Telugu)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66828
-#EXTINF:-1,IN429:Sony BBC Earth (Telugu)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66830
 #EXTINF:-1,IN431:TV9 (Telugu)
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/66832
 #EXTINF:-1,IN432:TV9 NEWS HD (Telugu)
