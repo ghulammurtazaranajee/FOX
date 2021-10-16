@@ -1,5 +1,263 @@
 #EXTM3U
 
+#EXTINF:-1,SWE: SVT1 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/800
+#EXTINF:-1,SWE: SVT2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/802
+#EXTINF:-1,SWE: TV3 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/805
+#EXTINF:-1,SWE: TV3 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/806
+#EXTINF:-1,SWE: TV4 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/809
+#EXTINF:-1,SWE: TV4 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/808
+#EXTINF:-1,SWE: Kanal 5 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/813
+#EXTINF:-1,SWE: TV6 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/815
+#EXTINF:-1,SWE: Sjuan HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/816
+#EXTINF:-1,SWE: TV8 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/817
+#EXTINF:-1,SWE: Kanal 9 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/818
+#EXTINF:-1,SWE: Kanal 9 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/819
+#EXTINF:-1,SWE: Kanal 11 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/821
+#EXTINF:-1,SWE: Kanal 11 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/822
+#EXTINF:-1,SWE: TV12 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/823
+#EXTINF:-1,SWE: TV12 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/824
+#EXTINF:-1,SWE: Discovery Channel FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10829
+#EXTINF:-1,SWE: TLC
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10832
+#EXTINF:-1,SWE: TV4 Fakta
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/810
+#EXTINF:-1,SWE: History 2 FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10831
+#EXTINF:-1,SWE: Animal Planet
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/835
+#EXTINF:-1,SWE: BBC Earth FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/826
+#EXTINF:-1,SWE: SVT24/B HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2439
+#EXTINF:-1,SWE: ATG Live
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2172
+#EXTINF:-1,SWE: TV4 Film
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/811
+#EXTINF:-1,SWE: TV4 Guld
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/812
+#EXTINF:-1,SWE: C More Hits FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/847
+#EXTINF:-1,SWE: C More Stars FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/848
+#EXTINF:-1,SWE: SF-Kanalen
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/836
+#EXTINF:-1,SWE: Disney Junior [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/840
+#EXTINF:-1,SWE: Nickelodeon
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/841
+#EXTINF:-1,SWE: NickToons [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10837
+#EXTINF:-1,SWE: Cartoon Network HD [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/838
+#EXTINF:-1,SWE: Boomerang [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/842
+#EXTINF:-1,SWE: Sportkanalen FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2140
+#EXTINF:-1,SWE: TV3 Sport HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/807
+#EXTINF:-1,SWE: EuroSport 1 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/843
+#EXTINF:-1,SWE: EuroSport 2 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/844
+#EXTINF:-1,SWE: E! HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10843
+#EXTINF:-1,SWE: C More Golf HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2137
+#EXTINF:-1,SWE: C More Live 1 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/854
+#EXTINF:-1,SWE: C More Live 2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/855
+#EXTINF:-1,SWE: C More Live 3 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/856
+#EXTINF:-1,SWE: Viasat Sport HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/867
+#EXTINF:-1,SWE: Viasat History HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/860
+#EXTINF:-1,SWE: Viasat Motor HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2138
+#EXTINF:-1,SWE: Disney XD  [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/988
+#EXTINF:-1,SWE: Viasat Film Action HD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/862
+#EXTINF:-1,SWE: Viasat Family [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/864
+#EXTINF:-1,SWE: Viasat Film Premiere HD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/865
+#EXTINF:-1,SWE: Viasat Explorer
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/859
+#EXTINF:-1,SWE: Viasat Film Hits HD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/863
+#EXTINF:-1,SWE: Viasat Series FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/870
+#EXTINF:-1,SWE: Viasat Nature HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/861
+#EXTINF:-1,SWE: Viasat Golf FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/871
+#EXTINF:-1,SWE: Comedy Central
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10844
+#EXTINF:-1,SWE: C More Stars HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25622
+#EXTINF:-1,SWE: C More Series HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/25623
+#EXTINF:-1,DEN: DR 1 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2363
+#EXTINF:-1,DEN: DR Ramasjang
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2368
+#EXTINF:-1,DEN: TV Aarhus HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2369
+#EXTINF:-1,DEN: TV2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2370
+#EXTINF:-1,DEN: TV2 Zulu HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2371
+#EXTINF:-1,DEN: TV2 Charlie HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2372
+#EXTINF:-1,DEN: TV2 News HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2373
+#EXTINF:-1,DEN: TV2 Sport X HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2374
+#EXTINF:-1,DEN: TV2 Fri HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2375
+#EXTINF:-1,DEN: TV2 Nord HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2376
+#EXTINF:-1,DEN: TV2 Lorry HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2377
+#EXTINF:-1,DEN: TV2 Fyn HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2378
+#EXTINF:-1,DEN: TV2 Bornholm HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2379
+#EXTINF:-1,DEN: TV2 Østjylland HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2380
+#EXTINF:-1,DEN: TV2 Syd
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2381
+#EXTINF:-1,DEN: TV Øst HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2383
+#EXTINF:-1,DEN: TV3 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2384
+#EXTINF:-1,DEN: TV3+ HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2385
+#EXTINF:-1,DEN: TV3 Puls HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2386
+#EXTINF:-1,DEN: 4
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2388
+#EXTINF:-1,DEN: Kanal 4 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2389
+#EXTINF:-1,DEN: Kanal 5 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2390
+#EXTINF:-1,DEN: Canal 9 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2393
+#EXTINF:-1,DEN: EuroSport 1 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2395
+#EXTINF:-1,DEN: EuroSport 2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2397
+#EXTINF:-1,DEN: EuroSport 2 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2398
+#EXTINF:-1,DEN: Discovery Science
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2400
+#EXTINF:-1,DEN: History 2 FHD  [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2404
+#EXTINF:-1,DEN: National Geographic Wild HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2408
+#EXTINF:-1,DEN: Boomerang [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2413
+#EXTINF:-1,DEN: Disney Channel HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2414
+#EXTINF:-1,DEN: Disney Junior
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2415
+#EXTINF:-1,DEN: Disney XD [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2416
+#EXTINF:-1,DEN: Cartoon Network [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2417
+#EXTINF:-1,DEN: Nick Jr [Multi-Audio]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2418
+#EXTINF:-1,DEN: C More Series FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2422
+#EXTINF:-1,DEN: C More Stars FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2423
+#EXTINF:-1,DEN: Animal Planet HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2424
+#EXTINF:-1,DEN: Viasat Film Family [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2425
+#EXTINF:-1,DEN: Viasat Series HD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2427
+#EXTINF:-1,NOR: E! Entertainment TV
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/948
+#EXTINF:-1,NOR: NRK 1 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/872
+#EXTINF:-1,NOR: NRK 2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/873
+#EXTINF:-1,NOR: TV2
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/875
+#EXTINF:-1,NOR: Max HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/881
+#EXTINF:-1,NOR: NRK 3/SUPER HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/874
+#EXTINF:-1,NOR: TV Norge FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/896
+#EXTINF:-1,NOR: TV2 Sport 2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2143
+#EXTINF:-1,NOR: Eurosport N HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2142
+#EXTINF:-1,NOR: MTV Rocks
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5857
+#EXTINF:-1,NOR: Eurosport Pluss 3 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5861
+#EXTINF:-1,NOR: Eurosport Pluss 4 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5862
+#EXTINF:-1,NOR: Eurosport Pluss 5 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5863
+#EXTINF:-1,NOR: GINX eSports TV
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5868
+#EXTINF:-1,NOR: FEM FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5869
+#EXTINF:-1,NOR: TV2 Nyhetskanalen FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/5871
+#EXTINF:-1,NOR: TV2 Sport 1
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2145
+#EXTINF:-1,NOR: TV2 Sport Premium 1 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2147
+#EXTINF:-1,NOR: Viasport 1
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/2148
+#EXTINF:-1,NOR: Viasat Film Family [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/949
+#EXTINF:-1,NOR: Viasat Series FHD [Multi-Sub]
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/903
+#EXTINF:-1,NOR: Viasat 4
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/901
+#EXTINF:-1,NOR: TV2 Zebra HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/888
+#EXTINF:-1,NOR: TV6
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/886
+#EXTINF:-1,NOR: VOX FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/882
+#EXTINF:-1,NOR: Viasat 4 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/884
+#EXTINF:-1,NOR: TV3 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/879
+#EXTINF:-1,NOR: TV2 HD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/876
+#EXTINF:-1,FIN: Yle TV1 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10745
+#EXTINF:-1,FIN: C More Sport 2 FHD
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10776
+#EXTINF:-1,FIN: TV 7 EESTI
+http://appfactory.group:8080/D3B1YGOyCw/VByCqdNt7F/10791
 #EXTINF:-1,9X Jalwa (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTINF:-1,9XM (480p)
@@ -1268,6 +1526,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1,Naxtra News (720p) [Not 24/7]
 http://wearelive.livebox.co.in/naxatratvhls/Naxatratv.m3u8
+
 #EXTINF:-1,NDTV 24X7 (480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1,NDTV India (480p)
