@@ -1,11 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com RUV
-https://ruvruverl-live-hls.secure.footprint.net/f93971c9d341476a506344e4994f741bf63faa01-1550945035/ruv/ruverl/index/stream4.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com R�V 1 Island
-https://ruvruverl-live-hls.secure.footprint.net/0e84e84137e292e51003f97b3681924e52bd3874-1548832268/ruv/ruverl/index/stream1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Nové Zámky
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Nové Zámky
@@ -150,26 +145,10 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NAT GEO DUBAI
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com RTCG Sat
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com RTCG Sat
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ganje Hozoor
 https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com INTV Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antena Comedy
-https://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antena Comedy
-https://ch.iptvmate.net/8e00b8e53dfd2f3522d4c70bac04e3ee.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antena Cook and Play
-https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antena Monden
-https://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antena Monden
-https://ch.iptvmate.net/d9d6031a2f72cf16ada2d512aadbbb66.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com B1
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com B1
@@ -202,8 +181,6 @@ http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8
 http://rtmp.info:8081/anexiontv/envivo/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CGTN
@@ -340,8 +317,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KienGiangTV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PTP - Phú Yên
-http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tien Giang
@@ -360,8 +335,6 @@ https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/chunklis
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Animax Japan (Vietnamese Subs)
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com GSTV
-https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NHK 华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NHK World Japan (1080p)
@@ -614,8 +587,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com G TV
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com GCM TV
-https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com GDM TELEVISION
 https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com GDNS Ludhiana
@@ -826,8 +797,6 @@ http://62.210.209.138:41000/movie/v52/v43/8236.mp4
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Greenland.2020
 http://62.210.209.138:41000/movie/v52/v43/6645.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Guada TV
-https://cloud.streamingconnect.tv:455/guadatv/guadatv.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Gulli (540p)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Gusto TV
@@ -962,8 +931,6 @@ https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com History Channel (Best of)
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com History Lab
-https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hit Music Channel (Hungary)
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hit TV (KZ)
@@ -1028,8 +995,6 @@ http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ISTV
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Iceland: RUV HD
-https://ruvruverl-live-hls.secure.footprint.net/8d45da1be1ece089aa393953f6c52b4a5594c605-1543415968/ruv/ruverl/index/stream5.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Idaho: Boise
 https://dai.google.com/linear/hls/event/EXltT2IOQvCIn8v23_15ow/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Idaho: Lewiston
@@ -1044,8 +1009,6 @@ https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
 https://introuble-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com InWonder (Mexico)
 https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India Today EN
@@ -1076,8 +1039,6 @@ https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
 https://insighttv-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Insight TV (Mexico)
 https://insighttv-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com InspirationTV (English)
-https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_2_av-p.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Inter AZ
 http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Intermedia TV
@@ -1696,8 +1657,6 @@ https://rpn1.bozztv.com/36bay2/gusa-mwg/mono.m3u8
 https://dai.google.com/linear/hls/event/OaqAqJ0yQPiEIUIYqD7IGQ/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Malasana.32.2020
 http://62.210.209.138:41000/movie/v52/v43/7055.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mar TV
-http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Marasli S01 E01
 http://62.210.209.138:41000/series/v52/v43/7205.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Marasli S01 E02
@@ -2154,10 +2113,6 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mystery Science Theater 3000
 https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mythos (720p)
-https://rpn1.bozztv.com/36bay2/gusa-mythos/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mythos (720p)
-https://rpn1.bozztv.com/36bay2/gusa-mythos/mono.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com MÁS+.TV CHILE
 https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NASA TV Media (720p)
@@ -2226,8 +2181,6 @@ https://entertainment.sechls01.visionip.tv/live/visiontvuk-entertainment-ntai-hs
 https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Naturescape (Australia)
-https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Naşul TV (720p)
 https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nea TV
@@ -2418,8 +2371,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OML on Revry
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ON4 TV
-http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ORTS
 http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/chunklist_b1894400_slNLD.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Oberlausitz TV
@@ -2468,12 +2419,6 @@ https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
 http://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OndaMezquita 7 TV
-https://cloud.streamingconnect.tv:455/mezquita/mezquita.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com One
-https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com One (720p)
-https://2-fss-2.streamhoster.com/pl_124/201830-1293592-1/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com One TV
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OneWay.to.Tomorrow.2020
@@ -2534,8 +2479,6 @@ https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10396
 http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PTL TV Network (720p)
-https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PUNKTum
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:punktum_high/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Pac 12 Insider
@@ -2754,8 +2697,6 @@ https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Rupavahini (480p)
 http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w1998132387.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com RÚV Islandia
-https://ruvruverl-live-hls.secure.footprint.net/4cb25e14619fb1e9711a400b8a5b21119605cb9a-1/ruv/ruverl/index/stream1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com SL 1
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com SL 2
@@ -2766,8 +2707,6 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://ign-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ST-TV: Pac12 Insider
 https://pac12-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ST-TV: World Poker Tour (1080p)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com SUPER B
@@ -2998,8 +2937,6 @@ http://62.210.209.138:41000/series/v52/v43/8197.mp4
 https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sesc TV
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index720p.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sesc TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shahid4U.Com.Lamma.Benetweled.2019.WEB-DL.720p
 http://62.210.209.138:41000/movie/v52/v43/5896.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11416
@@ -3160,24 +3097,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Karaoke
-https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Karaoke
-https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Karaoke (Australia)
-https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Karaoke (Sweden)
-https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Karoke (Netherland)
-https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Naturescape
-https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Naturescape
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray Naturescape: HD
-https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stingray djazz: HD
-https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Stirr News 24/7
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Strain.100.2020
@@ -3470,8 +3391,6 @@ http://62.210.209.138:41000/series/v52/v43/2305.mp4
 http://62.210.209.138:41000/series/v52/v43/2306.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lom-Kra2a-w-Ktaba-Arabic S01 E21
 http://62.210.209.138:41000/series/v52/v43/2307.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TBC 대구 (SBS 大邱)
-http://221.157.125.239:1935/live/psike/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TBD
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TC TELECIBAO HD
@@ -3494,8 +3413,6 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/playlist.m3u8
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1350303160.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TELESUR HD
-https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TEN Canal 10
@@ -3528,8 +3445,6 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TRK 555
 http://trk555.tv:8888/live
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TRT Belgesel
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TRT Diyanet
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TRT World
@@ -3592,12 +3507,6 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV NOTOS
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVPeru Noticias (Perú)
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Nova Onda
-https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Nova Onda
-https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w1156158175.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV POP HD
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Pai Eterno
@@ -3610,8 +3519,6 @@ http://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Seventeen (720p)
 https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Terceiro Anjo (360p)
-https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Torun HD
 http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Trwam
@@ -3660,8 +3567,6 @@ http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVN HD
-https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVO TOCOPILLA
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVP obregon
@@ -3674,10 +3579,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsmystery/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Classic Movies (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Comedy Network (480p)
-https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/mono.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Comedy Network (480p)
-https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Drive In Movie (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/mono.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Drive In Movie (360p)
@@ -3886,16 +3787,10 @@ https://5ca9af4645e15.streamlock.net/canaluno/smil:canaluno.smil/chunklist_w1614
 http://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TeleAruba
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TeleGenova
-https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TelePavia
 http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TeleTicino
 https://livestream.gruppocdt.ch/hls/teleticino.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TeleToledo
-https://cloud.streamingconnect.tv:455/teletoledo/teletoledo.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TeleVigo
-https://cloud.streamingconnect.tv:455/televigo/televigo.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Teleabruzzo TV
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Telebelluno
@@ -3918,14 +3813,10 @@ http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Telesud Trapani
 http://5cbd3bc28341f.streamlock.net:1935/telesud/_definst_/live/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Telesur Costarica
-http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Teletubbies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Teleunion (RD)
 http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Televen TV Venezuela
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tempe 11
 https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tempe 11
@@ -4440,16 +4331,12 @@ http://ventdelnord.tv:8080/hls/directe.m3u8
 http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vera TV
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vevo Pop (England)
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Victor Valley TV-3: Movies
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Virginia: Norfolk - Portsmouth
 https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Virginia: Tri-Cities
 https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vision TV
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vià Occitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com VoA TV
@@ -4960,8 +4847,6 @@ http://tv.ensonhaber.com/tv/tr/benguturk/index.m3u8
 http://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com bloomberght
 http://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com bspoketv
-https://bspoketv.s.llnwi.net/streams/322/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com caytv
 http://broadcasttr.com:1935/caytv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com covid25 S01 E04
@@ -5092,8 +4977,6 @@ http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com tv52
 http://stream.taksimbilisim.com:1935/tv52/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com tvA
-https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com tvideonews
@@ -5150,8 +5033,6 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Абаза ТВ
 http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Академия (Одесса)
-http://cdn10.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Астрахань 24
 https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Астрахань 24
@@ -7105,8 +6986,6 @@ https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com FASTWAY NEWS (720p)
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
@@ -7114,10 +6993,6 @@ http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shemaroo Punjabi TV
 https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India TV
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India TV News (480p)
-https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Janta TV
@@ -7172,10 +7047,6 @@ https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com SHEMARRO KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shubhsandesh
-http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shubhsandesh
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Times Now HD
@@ -7398,8 +7269,6 @@ https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 2x2
-http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 5 канал
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com A Haber
@@ -7442,8 +7311,6 @@ http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BBC World News
 http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BRIDGE TV
-http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BRIDGE TV Dance
 http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Bloomberg
@@ -7466,8 +7333,6 @@ http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ELTV
 http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Gulli Girl
-http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com HABERTÜRK
 http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com History
@@ -7512,8 +7377,6 @@ http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCEAN TV
 http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ON4
-http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PARAMOUNT COMEDY
 http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com POWERTURK
@@ -7528,8 +7391,6 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sony Sci-Fi
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sony Turbo
-http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Space
 http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Star
@@ -7568,8 +7429,6 @@ http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vip Comedy
 http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vip Premiere
-http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com XXI
 http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Xəzər
@@ -7764,8 +7623,6 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CT-N Court Feed
 http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CT-N TV - Conneticut
-https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CafeTV24 Veneto (Opt-1)
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Canal 13 La Rioja
@@ -7884,3 +7741,4 @@ http://82.212.74.3:8000/live/7512.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Canal i (1080p)
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
+
