@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-#EXTM3U
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/4TEMhxH.png",30A TV
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/gNWg9tl.png",30A Music
